@@ -1,4 +1,8 @@
-﻿### Cloud Resource Descriptions and Comparison Table
+# Purpose of the Lab
+
+The purpose of this is to compare cloud services across AWS, Azure, and Google Cloud. By exploring equivalent services, we can understand how each provider names and structures their offerings, and identify any unique features they may have. This will help me make better decisions when working with different cloud platforms.
+
+ ### Cloud Resource Descriptions and Comparison Table
 
 | #  | Description                                                                 | AWS (Service Name)            | Azure (Service Name)             | Google Cloud (Service Name)       |
 |----|-----------------------------------------------------------------------------|-------------------------------|----------------------------------|-----------------------------------|
