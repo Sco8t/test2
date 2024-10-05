@@ -39,27 +39,33 @@ The purpose of this is to compare cloud services across AWS, Azure, and Google C
 
 
 
-
-
 # Introduction
-A vast range of services are provided by cloud service providers like Google Cloud, Microsoft Azure, and Amazon Web Services (AWS) to satisfy the networking, computation, and storage requirements of contemporary applications. Even though their services frequently perform comparable functions, each provider is distinguished from the others by differences in features, capabilities, and naming standards. Below are the key similarities and differences between equivalent services from the three cloud providers.
+
+A vast range of services are provided by cloud service providers like Google Cloud, Microsoft Azure, and Amazon Web Services (AWS) to satisfy the networking, computation, and storage requirements of contemporary applications.  
+Even though their services frequently perform comparable functions, each provider is distinguished from the others by differences in features, capabilities, and naming standards.  
+Key similarities and differences between equivalent services from the three cloud providers.
 
 ## Example 1: AWS EC2 vs. Azure Virtual Machines vs. Google Compute Engine (Compute Services)
-**Similarity**: All of them provide scalable processing power for virtual machine operations. With these services, you may set resource allocation, select instance types, and scale in response to demand.
 
-**Differences**:
-- **AWS EC2**: Renowned for its versatility, with a variety of instance types and granular pricing methods (on-demand, reserved, and spot instances).
-- **Azure Virtual Machines**: Strong integration with the Microsoft ecosystem, making it a popular choice for businesses that use Windows Server and other Microsoft products.
-- **Google Compute Engine**: Prioritizes simplicity and offers robust connectivity with Google's data services, along with automatic savings for continuous consumption.
+**Similarity:** All of them provide scalable processing power for virtual machine operations, and with these services, you may set resource allocation, select instance kinds, and scale in response to demand.
+
+**Differences:**  
+- With a variety of instance types and granular pricing methods (on-demand, reserved, and spot instances), EC2 is renowned for its versatility.  
+- Businesses that use Windows Server and other Microsoft products choose Azure Virtual Machines because of their strong integration with the Microsoft ecosystem.  
+- Google Compute Engine prioritizes simplicity, including robust connectivity with Google's data services, and automatic savings for continuous consumption.
 
 ## Unique Features or Capabilities that Certain Services May Offer Compared to Their Counterparts
+
 ### Example 2: AWS Lambda vs. Azure Functions vs. Google Cloud Functions (Serverless Computing)
-- **AWS Lambda**: Guarantees that functions don't require cold starts and offers an extensive network of event-driven connections with additional AWS services.
-- **Azure Functions**: Stands out for its durable functions, which allow stateful workflows for long-running processes, simplifying complicated state management and retries in serverless applications.
-- **Google Cloud Functions**: Simple and effective for real-time event-driven architecture. Google's focus on tight integration with Firebase makes it ideal for mobile app backends and real-time updates.
+
+- **AWS Lambda:** It guarantees that features don't require cold starts and offers an extensive network of event-driven connections with additional AWS services.  
+- **Azure Functions:** Stands out for its durable functions, which allow stateful workflows for long-running processes, making it easier to manage complicated state management and retries in serverless apps.  
+- **Google Cloud Functions:** They are simple and effective for real-time event-driven architecture. Google's focus on tight integration with Firebase makes it perfect for mobile app backends and real-time updates.
 
 ## Naming Conventions Between Cloud Providers
-### Example 3: AWS RDS vs. Azure Cosmos DB/SQL Database vs. Google Cloud (Database Services)
-- **AWS Relational Database Service (RDS)**: Clearly states its purpose—offering relational database capabilities as a managed service.
-- **Azure SQL Database and Cosmos DB (for NoSQL)**: Highlight the database technologies that underpin the services.
-- **Google Cloud (Cloud SQL and Firestore)**: Use shorter, more user-friendly names, focusing on simplicity of use and integration into Google's broader data platform.
+
+### Example 3: RDS vs. CosmosDB/SQL Database vs. Google Cloud (Database Services)
+
+- **AWS:** Relational Database Service (RDS) states precisely what it does actually. It offers relational database capabilities as a managed service.  
+- **Azure SQL Database and Cosmos DB (for NoSQL):** They highlight the database technologies that underpin the services.  
+- **Google Cloud:** Cloud SQL and Firestore: They have shorter and more user-friendly names, focusing on simplicity of use and connection into Google's larger data platform.
