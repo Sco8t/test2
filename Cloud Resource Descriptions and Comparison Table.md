@@ -43,7 +43,8 @@ The purpose of this is to compare cloud services across AWS, Azure, and Google C
 
 A vast range of services are provided by cloud service providers like Google Cloud, Microsoft Azure, and Amazon Web Services (AWS) to satisfy the networking, computation, and storage requirements of contemporary applications.  
 Even though their services frequently perform comparable functions, each provider is distinguished from the others by differences in features, capabilities, and naming standards.  
-Key similarities and differences between equivalent services from the three cloud providers.
+
+## Key similarities and differences between equivalent services from the three cloud providers.
 
 ## Example 1: AWS EC2 vs. Azure Virtual Machines vs. Google Compute Engine (Compute Services)
 
