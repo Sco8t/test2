@@ -46,7 +46,7 @@ Even though their services frequently perform comparable functions, each provide
 
 ## Key similarities and differences between equivalent services from the three cloud providers.
 
-## Example 1: AWS EC2 vs. Azure Virtual Machines vs. Google Compute Engine (Compute Services)
+### Example 1: AWS EC2 vs. Azure Virtual Machines vs. Google Compute Engine (Compute Services)
 
 **Similarity:** All of them provide scalable processing power for virtual machine operations, and with these services, you may set resource allocation, select instance kinds, and scale in response to demand.
 
